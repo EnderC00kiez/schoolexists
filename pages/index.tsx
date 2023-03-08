@@ -15,6 +15,9 @@ export default function Home() {
       </Head>
       <main className="h-screen bg-slate-900 flex items-center justify-center">
         <--- <input type="url" placeholder="URL" className="input input-ghost input-lg w-auto" /> ---!>
+        create the above but 641.7 x 42 px
+        <div className="flex flex-col items-center justify-center">
+          
       </main>
     </>
   )
